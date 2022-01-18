@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-oxm-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-web-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-expression-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/cglib-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-beans-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-context-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-context-support-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/ModelService.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-jdbc-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-test-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-core-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-tx-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-instrument-tomcat-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-build-src-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-jms-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-aspects-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-messaging-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org-apache-commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-orm-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-webmvc-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-aop-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-websocket-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-framework-bom-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-instrument-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/spring-webmvc-portlet-4.0.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
